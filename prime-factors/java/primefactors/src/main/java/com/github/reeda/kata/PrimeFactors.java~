@@ -1,0 +1,10 @@
+package com.github.reeda.kata;
+
+import com.google.common.collect.Lists;
+
+public class PrimeFactors 
+{
+    public static int generate(int n) {
+	return Lists.newArrayList();
+    }
+}
